@@ -1,0 +1,10 @@
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\bin\Debug\Organize.exe
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\bin\Debug\Organize.pdb
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\obj\Debug\Organize.csprojResolveAssemblyReference.cache
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\obj\Debug\Organize.main.resources
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\obj\Debug\Organize.Properties.Resources.resources
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\obj\Debug\Organize.csproj.GenerateResource.Cache
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\obj\Debug\Organize.exe
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\obj\Debug\Organize.pdb
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\bin\Debug\ExtOrg.dll
+C:\Users\siael\Documents\Visual Studio 2015\Projects\Organize\Organize\bin\Debug\ExtOrg.pdb

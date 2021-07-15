@@ -1,0 +1,7 @@
+﻿Como funciona?
+
+Este aplicativo organiza qualquer pasta por formatos de arquivo. Ele irá vasculhar todos os arquivos dentro da pasta especificada e separar por tipos.
+
+Por exemplo, .DOCX ele irá criar uma pasta DOCX e mover seus arquivos para lá; .XLSX ele irá criar uma pasta XLSX e mover seus arquivos para lá; e assim por diante.
+
+Nenhum arquivo será excluído ou esquecido.
